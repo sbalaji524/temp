@@ -1,0 +1,176 @@
+.button1 {
+  background-color: aqua;
+  height: 36px;
+  width: 105px;
+  display: block;
+}
+
+.button1:hover {
+  background-color:blueviolet
+}
+
+.button2 {
+  height: 36px;
+  width: 105px;
+  background-color:blueviolet; 
+}
+
+.intro {
+  padding-left: 10px;
+  font-size: 4.7vw;
+  background-color:blueviolet;
+  font-family:Geologica;
+  width: 732px;
+  display: inline-block;
+
+}
+
+.firpart {
+  top: 10;
+  left: 10;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.secpart {
+  top: 10;
+  left: 10;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.text1 {
+  display: inline-block;
+  padding-left: 10px;
+  font-family: Geologica;
+  font-size: 2.5vw;
+  width: 1150px;
+}
+
+body {
+  background-color: beige;
+}
+
+.divpic {
+  margin-left: 20px;
+}
+
+.secimg {
+  margin-left: 20px;
+}
+
+.rect1 {
+  display: inline-block;
+  padding-left: 10px;
+  font-family: Geologica;
+  font-size: 50px;
+  width: 18%;
+  height: 20%;
+  background-color: white;
+  text-align: center;
+}
+
+.rect2 {
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  width: 18%;
+  height: 20%;
+  text-align: center;
+  font-family: Geologica;
+  font-size: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.rect3 {
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  width: 18%;
+  height: 20%;
+  text-align: center;
+  font-family: Geologica;
+  font-size: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.rect4 {
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  width: 18%;
+  height: 35%;
+  text-align: center;
+  font-family: Geologica;
+  font-size: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.rect5 {
+  background-color: white;
+  display: inline-block;
+  vertical-align: top;
+  width: 18%;
+  height: 20%;
+  text-align: center;
+  font-family: Geologica;
+  font-size: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+p a {
+  color: black;
+}
+
+p a:visited {
+  color: black;
+}
+
+.contact {
+  display: block;
+  width: 1890px;
+  background-color:orange;
+  height: 120px;
+  font-family: Geologica;
+  font-size: 50px;
+  top: 10;
+  left:10;
+  padding-left: 5px;
+}
+
+.test {
+  display: block;
+  width: 100w;
+}
+
+.text5 {
+  font-size: 2.5vw;
+}
+
+.info5 {
+  font-size: 1.7vw;
+}
+
+.secpic {
+  padding-left: 20px;
+}
+
+.contaction {
+  font-size: 2.5vw;
+}
+
+.email {
+  font-size: 1.5vw;
+}
+
+.contact {
+  width:100%;
+  height:5%;
+}
